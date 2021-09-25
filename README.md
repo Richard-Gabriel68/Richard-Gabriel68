@@ -1,4 +1,4 @@
-## Olá! Eu sou o Richard 😄✌🏾
+## Olá! Eu sou o Richard 😄
  <div>
 
 - 🔭 I’m currently working on front-end
